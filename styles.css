@@ -1,0 +1,53 @@
+
+h3 {
+  font-size: x-large;
+}
+
+#sloth {
+  border: solid;
+  border-width: 1px;
+  border-color: #C0C0C0;
+  padding: 5px;
+  width: 500px;
+  box-shadow: 4px 6px #C0C0C0;
+}
+
+#card {
+  border: solid;
+  border-width: 1px;
+  border-color: #C0C0C0;
+  padding: 10px;
+  width: 460px;
+  margin: .5em
+}
+
+img {
+  display:  block;
+  border-radius: 10 px;
+  padding: 10px;
+}
+
+ul {
+    font-weight:normal;
+    list-style-type: none;
+    padding: 5px;
+}
+
+li span {
+    font-weight: bold;
+    padding: 5px;
+}
+
+
+/* box-shadow: 2px 4px gray;*/
+
+/*box-shadow: 2px 4px;*/
+
+
+/*
+CHECK:  -italicized text for the animal's interesting fact
+CHECK:  -bolded labels for the animal's list items (e.g. 'Habitat')
+CHECK:  -no dots for the animal's list items
+-border around the animal's name, image, and information
+CHECK:  -border around the animal's information
+-spacing between the animal's name, image, and information (you will need to use the property padding)*/
